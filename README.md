@@ -26,7 +26,3 @@
 pip install -r requirements.txt
 jupyter notebook notebooks/euro_coin_classification.ipynb
 ```
-EOF
-git add README.md
-git commit -m "add proper README"
-git push
