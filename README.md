@@ -13,7 +13,6 @@
 
 - `notebooks/` — Jupyter notebook з повним аналізом
 - `outputs/` — графіки, матриці помилок, t-SNE, CSV з результатами
-- `report/` — звіт PDF
 - `src/` — Python модулі
 
 ## Датасет
